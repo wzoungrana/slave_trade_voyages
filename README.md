@@ -22,27 +22,9 @@ names.
 4. Ships essentially flew the flag of the territory where they were constructed. 
 
 
-5. Most freqent rig types and their count in the dataset:
+5. Most freqent rig types in the dataset:
 
-Ship               4854
-Brig               2893
-Schooner           2374
-Bergantim          1945
-Curveta            1882
-Snauw              1444
-Galera             1231
-Brigantine         1177
-Sumaca             1142
-Sloop               738
-Patacho             607
-Navio mercante      553
-Fregat              429
-Galeta              317
-Não                 290
-Barque              252
-Fregata             226
-Schooner-brig       141
-Yaght                85
+Ship, Brig, Schooner,Bergantim, Curveta, Snauw, Galera, Brigantine, Sumaca, Sloop, Patacho, Navio mercante  , Fregat, Galeta...            
 
 
 
