@@ -12,6 +12,8 @@ as well as notebooks and plots generated from the Trans-Atlantic and Intra-Ameri
 
 1. Only 50% of the vessels completed their voyages as intended. 5% of the vessels arriving in Africa have a 
    subsequent fate that is unknown. 10% of the vessels left their home ports and were never heard of again. 
+   
+   ![alt text](https://github.com/wzoungrana/slave_trade_voyages/blob/master/Plots%20and%20Figures/Fate%201.png)
 
 2. More than 30% of the slaving ships flew the flag of Great Britain. Portugal around 15%, Spain 4% and the                   USA
 5%. A little bit more than a quarter of the flags were not specified.
