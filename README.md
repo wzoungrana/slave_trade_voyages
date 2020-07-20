@@ -28,7 +28,7 @@ There are quite a lot of columns with missing values.
 
 3. Mary, Nancy, NS do Rosario S Antônio e Almas, NS da Conceição S Antônio e Almas were the most common ship 
 names. 
-![alt text]()
+
 
 4. Ships essentially flew the flag of the territory where they were constructed. 
 
