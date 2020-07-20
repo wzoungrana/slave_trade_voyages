@@ -37,3 +37,6 @@ Ship, Brig, Schooner,Bergantim, Curveta, Snauw, Galera, Brigantine, Sumaca, Sloo
 William Boats, Companhia Geral de Pernambuco e Paraíba owned more than half of the vessels.
 
 ![alt text](https://github.com/wzoungrana/slave_trade_voyages/blob/master/Plots%20and%20Figures/Vessel%20Owner.png)
+
+7. 70% of Slaves were disembarked in the Americas
+![alt text](https://github.com/wzoungrana/slave_trade_voyages/blob/master/Plots%20and%20Figures/Fate%20of%20slaves.png)
