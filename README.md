@@ -7,7 +7,13 @@ https://www.slavevoyages.org provides since 1999 dataset on the trans-Atlantic a
 This present repository thus holds files I downloaded from their website to help me understand the data as well
 as well as notebooks and plots generated from the Trans-Atlantic and Intra-American Slave Trade Databases. 
 
- 
+### A View of the State of the Data 
+
+![alt text] (https://github.com/wzoungrana/slave_trade_voyages/blob/master/Plots%20and%20Figures/nullity_matrix.png)
+
+There are quite a lot of columns with missing values. 
+
+
 # Some Findings and Insights from a Preliminary EDA (Check the Plots-folder for the visualization)
 
 1. Only 50% of the vessels completed their voyages as intended. 5% of the vessels arriving in Africa have a 
