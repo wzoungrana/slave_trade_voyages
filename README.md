@@ -26,7 +26,6 @@ names.
 
 4. Ships essentially flew the flag of the territory where they were constructed. 
 
-![alt text]()
 5. Most freqent rig types in the dataset:
 
 Ship, Brig, Schooner,Bergantim, Curveta, Snauw, Galera, Brigantine, Sumaca, Sloop, Patacho, Navio mercante  , Fregat, Galeta...            
