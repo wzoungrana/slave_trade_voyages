@@ -9,7 +9,7 @@ as well as notebooks and plots generated from the Trans-Atlantic and Intra-Ameri
 
 ### A View of the State of the Data 
 
-![alt text] (https://github.com/wzoungrana/slave_trade_voyages/blob/master/Plots%20and%20Figures/nullity_matrix.png)
+![alt text](https://github.com/wzoungrana/slave_trade_voyages/blob/master/Plots%20and%20Figures/nullity_matrix.png)
 
 There are quite a lot of columns with missing values. 
 
